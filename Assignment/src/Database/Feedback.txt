@@ -1,9 +1,0 @@
-id,userId,text,appointmentId,date,type
-F001,U007,Good service and fast work,A001,2026-05-01,Positive
-F002,U008,Tire replacement was done well,A002,2026-05-02,Positive
-F003,U010,Car wash was clean and quick,A004,2026-05-04,Positive
-F004,U008,Brake inspection was helpful,A007,2026-05-07,Positive
-F005,U010,Wheel alignment improved the driving,A009,2026-05-09,Positive
-F006,U009,Waiting time was a bit long,A003,2026-05-03,Complaint
-F007,U011,Air conditioner service appointment still pending,A005,2026-05-05,Complaint
-F008,U009,Oil change service was smooth,A011,2026-05-11,Positive
