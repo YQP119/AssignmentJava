@@ -1,0 +1,13 @@
+id,role,username,name,password,email,phoneNumber,isActive
+U001,Manager,manager01,Ahmed Ali,pass123,ahmed.manager@gmail.com,60111222333,true
+U002,Counter Staff,counter01,Sara Hassan,pass123,sara.counter@gmail.com,60112223344,true
+U003,Counter Staff,counter02,Omar Khalid,pass123,omar.counter@gmail.com,60113334455,true
+U004,Technician,tech01,Ali Mansour,pass123,ali.tech@gmail.com,60114445566,true
+U005,Technician,tech02,Khaled Nasser,pass123,khaled.tech@gmail.com,60115556677,true
+U006,Technician,tech03,Hassan Yousif,pass123,hassan.tech@gmail.com,60116667788,true
+U007,Customer,cust01,Yaqob Hussein,pass123,yaqob.customer@gmail.com,60117778899,true
+U008,Customer,cust02,Mohammed Awadh,pass123,mohammed.customer@gmail.com,60118889900,true
+U009,Customer,cust03,Abdullah Salem,pass123,abdullah.customer@gmail.com,60119990011,true
+U010,Customer,cust04,Fahad Ahmed,pass123,fahad.customer@gmail.com,60110001122,true
+U011,Customer,cust05,Nasser Ali,pass123,nasser.customer@gmail.com,60112221133,true
+U012,Customer,cust06,Hamad Khalid,pass123,hamad.customer@gmail.com,60113332244,true
